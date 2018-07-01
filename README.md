@@ -11,3 +11,12 @@ Running RabbitMQ with docker:
 ## Publisher confirms
 
 ## Message TTL
+
+## Exchanges
+
+Types:
+
+- direct:
+- topic:
+- headers:
+- fanout: Broadcasts a message
