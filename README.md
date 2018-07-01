@@ -7,3 +7,7 @@ Running RabbitMQ with docker:
 
 `5672`: Port to connect to rabbimq
 `15672`: Port to management. `localhost:15672`. username and password: `guest`
+
+## Publisher confirms
+
+## Message TTL
